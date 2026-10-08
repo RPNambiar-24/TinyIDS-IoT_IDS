@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (download IoT-23 separately)
+data/
+
+# Large generated artifacts (regenerate with 01_prepare.py / 02_train.py)
+artifacts/X_scaled.npy
+artifacts/train.csv
+artifacts/test.csv
+artifacts/*.pt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
