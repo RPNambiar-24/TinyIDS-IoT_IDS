@@ -137,17 +137,6 @@ Shared hyperparameters for all variants:
 
 **Future work:** INT8 quantisation-aware training, federated learning across devices, and multi-flow temporal features.
 
-## Citation
-
-```bibtex
-@misc{nambiar2026tinyids,
-  title  = {TinyIDS: Adversarially Robust Intrusion Detection for Resource-Constrained IoT Devices},
-  author = {Nambiar, Rishab P and Kavitha, P},
-  year   = {2026},
-  note   = {Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore}
-}
-```
-
 ## Authors
 
 - **Rishab P Nambiar** — Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore (rishabpnambiar@gmail.com)
